@@ -1,0 +1,22 @@
+{
+  "name": "geme_of_life_essential_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanumanum/test-heroku-gol.git"
+  },
+  "author": "hanuman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanumanum/test-heroku-gol/issues"
+  },
+  "homepage": "https://github.com/hanumanum/test-heroku-gol#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
