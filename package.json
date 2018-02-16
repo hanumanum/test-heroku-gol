@@ -1,5 +1,5 @@
 {
-  "name": "game_of_life_essential_world",
+  "name": "test_heroku_gol",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
